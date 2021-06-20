@@ -7,3 +7,10 @@ Reward table is made such that it perform motion in shortest possible time .
 To train model Bellman Equation used .
 Input to Model : Current Location , Desired Location
 Output to Model : Shortest path Traversal between Current and Desired Location
+
+
+
+# Online References
+1.Edureka Q learning (Reinforcement learning)
+2.Analytics vidya (Reinforcement Learning )
+3.towardsdatascience blog
